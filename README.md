@@ -1,2 +1,3 @@
 # hello-world
-a thing that is supposed to happen
+
+I am interested in making some helpful apps for people and dogs.
